@@ -1,0 +1,41 @@
+int r=A3;
+int soundR=0,vm=10;
+void setup() {
+    pinMode(r,INPUT);
+    pinMode(23,  OUTPUT);
+    pinMode(27,  OUTPUT);
+    pinMode(31,  OUTPUT);
+    pinMode(35,  OUTPUT);
+    pinMode(39,  OUTPUT);
+    pinMode(43,  OUTPUT);
+    pinMode(47,  OUTPUT);
+    pinMode(51,  OUTPUT); 
+    pinMode(53,  OUTPUT);  
+    Serial.begin(9600);
+}
+    void loop() {
+    soundR = analogRead(r); //uso il canale destro per i led
+    Serial.println(soundR);
+    //controllo per l' accensione dei led   
+    //partenza dal centro apertura a stella 
+    
+    /*if ( (vm *(valore_di_configurazione))  <soundR) 
+     *   digitalWrite (ledStrip_pin ,HIGH); 
+     *else 
+     *   digitalWrite (ledStrip_pin ,LOW);
+    */
+ 
+    if ( (vm *1.75)  <soundR) {digitalWrite (23 ,HIGH);} else {digitalWrite (23 ,LOW);}//alto destra
+    if ( (vm *4)  <soundR) {digitalWrite (53,HIGH);} else {digitalWrite (53,LOW);} //alto centro 
+    if ( (vm *3)  <soundR) {digitalWrite (35,HIGH);} else {digitalWrite (35,LOW);}//alto sinistra
+    
+    if ( (vm *6)  <soundR) {digitalWrite (27,HIGH);} else {digitalWrite (27,LOW);}//centro destra
+    if ( (vm *1.15)  <soundR) {digitalWrite (47,HIGH);} else {digitalWrite (47,LOW);} //centro centro  
+    if ( (vm *6.5)  <soundR) {digitalWrite (43,HIGH);} else {digitalWrite (43,LOW);} //centro sinistra
+    
+    if ( (vm *3.75)  <soundR) {digitalWrite (31,HIGH);} else {digitalWrite (31,LOW);}//basso destra
+    if ( (vm *5.3)  <soundR) {digitalWrite (39,HIGH);} else {digitalWrite (39,LOW);} //basso centro    
+    if ( (vm *2.6)  <soundR) {digitalWrite (51,HIGH);} else {digitalWrite (51,LOW);}  //basso sinistra
+    
+    delay(10);   
+}
