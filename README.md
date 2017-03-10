@@ -6,3 +6,10 @@ Nel mezzo si troverà il "progetto", fatto in gesso, che rappresenterà il simbo
 
 Nella parte superiore della Mole saranno presenti tre "led" (verde, bianco e rosso), i quali con effetto "fade", assumeranno i colori della nostra bandiera. 
 Mentre nella parte inferiore della Mole saranno presenti molti "led" uno vicino all'altro (di diversi colori), i quali, coordinati dal codice, andranno a tempo di musica.
+
+
+
+
+
+
+Utilizzo della breadboard (strumento utilizzato per creare prototipi di circuiti elettrici, senza bisogno di saldare i vari componenti), per i collegamenti dei led con i vari fili.
