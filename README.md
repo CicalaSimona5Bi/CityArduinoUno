@@ -9,15 +9,15 @@ ReadMe = "Presentazione del progetto"
  - Discipline utilizzate:   
    
    il progetto utilizza diverse discipline:
-   - telecomunicazioni;
+   - *telecomunicazioni;
    - informatica;
-   - modellistica.
+   - modellistica.*
  
  - Prerequisiti
    
-   - telecomunicazioni : Arduino UNO Rev3, componenti e breadboard;
+   - *telecomunicazioni : Arduino UNO Rev3, componenti e breadboard;
    - informatica : software ARDUINO 1.8.2 (the open-source Arduino Software (IDE) makes it easy to write code and upload it to the board);
-   - modellistica : alginato, gesso.
+   - modellistica : alginato, gesso.*
    
   - Istruzioni
     
