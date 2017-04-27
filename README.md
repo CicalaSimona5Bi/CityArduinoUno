@@ -4,8 +4,7 @@ ReadMe = "Presentazione del progetto"
 
  - Che cos'è questo progetto?
    
-   Impianto semaforico per due incroci e rappresentazione architettonica torinese: la Mole Antonelliana, con 3 led effetto "fade" della      bandiera italiana.
-
+   Creazione di un impianto semaforico, per due incroci, con l’utilizzo di “Arduino Uno” e rappresentazione architettonica torinese: la      Mole Antonelliana, realizzata in gesso (avente 3 led, nella parte inferiore, con effetto "fade" della bandiera italiana) e, infine,        apparecchi per l’illuminazione artificiale, anch’essi, con l’utilizzo di “Arduino Uno”.
  
  - Discipline utilizzate:   
    
