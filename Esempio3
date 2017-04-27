@@ -1,0 +1,25 @@
+int s=0;
+
+int vm=10;
+
+void setup() {
+
+pinMode (A0,INPUT);
+
+pinMode (13,OUTPUT);
+
+..........   //istruzione degli altri pin di uscita
+
+}
+
+void loop()
+{
+s=analogRead(1);
+
+if((vm*1)<s)
+  digitalWrite(13,HIGH);
+else digitalWrite(13,LOW);
+
+..........   //istruzione if...else degli altri pin
+
+}
