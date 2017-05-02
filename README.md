@@ -45,7 +45,7 @@ ReadMe = "Presentazione del progetto"
  
  
  
- ** *- Vedi documentazione precisa:*
+ **Vedi documentazione precisa:**
  
     1. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.-Documentation:-materiale
     
