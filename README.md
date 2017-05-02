@@ -46,12 +46,9 @@ ReadMe = "Presentazione del progetto"
  
  
  # **Vedi documentazione precisa:**
- 
-    1. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.-Documentation:-materiale
-    
-    2. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.1-Documentation:-la-Mole-Antonelliana
-    
-    3. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.2-Documentation:-base-del-progetto
+  1. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.-Documentation:-materiale
+  2. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.1-Documentation:-la-Mole-Antonelliana
+  3. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.2-Documentation:-base-del-progetto
    
    
    
