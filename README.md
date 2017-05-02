@@ -29,6 +29,16 @@ ReadMe = "Presentazione del progetto"
   - Istruzioni:
     
     Potrete replicare il progetto sul vostro computer personale e apportare modifiche, eventualmente fonderle con il progetto                 principale, o in alcuni casi creare un progetto proprio.
+    
+    
+    
+    
+    
+    
+    Vedi documentazione precisa:
+    1. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.-Documentation:-materiale
+    2. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.1-Documentation:-la-Mole-Antonelliana
+    3. https://github.com/CicalaSimona5Bi/CityArduinoUno/wiki/9.2-Documentation:-base-del-progetto
    
    
    
