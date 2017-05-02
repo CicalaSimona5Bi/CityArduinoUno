@@ -33,7 +33,7 @@ ReadMe = "Presentazione del progetto"
     
   - Abstract:
   
-   Traffic light system of a city, which serves to organize the flow of traffic at different crossings and lighting for greater safety      and road visibility.
+    Traffic light system of a city, which serves to organize the flow of traffic at different crossings and lighting for greater safety     and road visibility.
 
   
     
